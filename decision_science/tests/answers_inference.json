@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "\npositive as beta sign but huge std error, relatively high p-value and large confidence interval\n",
+    "T_STAT": "\n(sample mean-popilation mean)/(sample standard deviation/square root(sample size))\n",
+    "P_VALUE": "\nthis p-value is too high : the null hypothesis cannot be excluded as it is way above 0.05.\nIt means it is not statistically significant neither at 95% confidence interval, nor at 90%.\n",
+    "INCREASE": "\nAccording to this model, holding all other factor constant, increasing share of families with a married couple\nby 1 percent in the district decreases the number of incidents by 2 115.\n",
+    "LIMITATIONS": "\nWe cannot rely on R-square because we did not check the residuals and we have several factors with p-values way \ntoo high. An explanation is that we have not selected independant variables (for example 'perc less than high school' is highly \ncorrrelated/redundant with 'perc college graduates') so we cannot trust this model.\n"
+}
